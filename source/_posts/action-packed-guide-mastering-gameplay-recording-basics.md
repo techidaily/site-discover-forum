@@ -1,7 +1,7 @@
 ---
 title: "Action-Packed Guide: Mastering Gameplay Recording Basics"
-date: 2024-09-21T18:59:31.176Z
-updated: 2024-09-27T22:11:51.038Z
+date: 2024-10-01T19:04:34.591Z
+updated: 2024-10-02T16:38:35.741Z
 tags:
   - product
 categories:
@@ -57,16 +57,16 @@ Action Tutorials
 
 ![Mirillis Action! - gameplay recording mode](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_games_applications_recording_mode.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Run your game, Action! HUD should appear in the top right (default position) corner of your game displaying current game framerate in blue color. This means that game is active, Action! is connected and ready to start gameplay recording. 
 
 ![Mirillis Action! - HUD in game](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_HUD_normal_status_game.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Gameplay recording
 
@@ -80,46 +80,52 @@ Action Tutorials
 
 ![Mirillis Action! - HUD showing finished gameplay recording](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_HUD_normal_status_game.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Gameplay recordings playback
 
  Open File manager in main Action! window and check video recordings list. Video recordings list shows all your gameplay recordings, desktop recordings and any other screen recordings available in selected output folder. 
 
 ![Mirillis Action! - list of gameplay recordings](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_game_recording_thumbnail.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Action! includes internal fast player dedicated for video recordings playback. Select your new gameplay recording and use mouse double click on a thumbnail to start gameplay recording playback. 
 
 ![Mirillis Action! - gameplay recording playback with Action! player](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_game_recording_playback.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To playback raw Action! gameplay recordings you can also use one of **Splash** media player.   
 **Splash** provides additional features like SmartSeek, Motion², DetailBoost, LightBoost, Audio boost, Screen capture and more. Splash is available for download at Mirillis website:   
 [https://mirillis.com/downloads](https://tools.techidaily.com/mirillis/products/) 
+
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Action! HUD on gameplay recordings
 
  If you do not want to include HUD in recorded gameplay videos, please make sure that an option: **"Do not record HUD in games and applications"** is enabled. 
 
 ![Mirillis Action! - Settings - Do not record HUD in games and applications](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_HUD_settings_do_not_record_in_games.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -136,18 +142,21 @@ Action Tutorials
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-how-burst-mode-enhances-gopro-videos/"><u>[New] How Burst Mode Enhances GoPro Videos</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-instagrams-latest-trend-get-8plus-free-tools-for-cutting-and-sharing-video-content/"><u>[New] Instagram's Latest Trend Get 8+ Free Tools for Cutting & Sharing Video Content</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-simplified-recording-of-your-skype-chats-with-pc-and-mac-for-2024/"><u>[New] Simplified Recording of Your Skype Chats with PC & Mac for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-enhancing-instagram-video-performance-desktop/"><u>[Updated] In 2024, Enhancing Instagram Video Performance (Desktop)</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/1-easily-adjust-your-videos-quality-resize-footage-on-pc-or-mac/"><u>1. Easily Adjust Your Video's Quality: Resize Footage on PC or Mac</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/1726224422010-movavi/"><u>最新Movavi 無限制範圍影片轉換器 - 超高速自由版</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-update-now-epson-xp-420-printer-software/"><u>Download & Update Now: Epson XP-420 Printer Software</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/google-drive-2-cuidado-descargando-peliculas-en-2021-un-tutorial-completo/"><u>Google Drive 2 Cuidado, Descargando Películas en 2021: Un Tutorial Completo</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/inside-cyberpunk-2077-a-game-of-mistakes-or-a-gem-in-progress/"><u>Inside Cyberpunk 2077: A Game of Mistakes or a Gem in Progress?</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/1726222838740-movavi-avim4v/"><u>Movavi: ストレージを気にせず、無料でAVIとM4Vビデオの変換 - 最強ワンスタック</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/top-20-gratist-video-konverterar-apps-for-windows-11-8-and-7/"><u>Top 20 Gratist Video Konverterar Apps För Windows 11, 8 & 7</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/ultimate-distance-education-toolkit-top-resources-and-tech-for-remote-learners/"><u>Ultimate Distance Education Toolkit: Top Resources & Tech for Remote Learners</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/unlocking-the-secrets-of-mp4-files-a-comprehensive-guide/"><u>Unlocking the Secrets of MP4 Files - A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-top-8-iphone-video-production-secrets-for-high-quality-shoots/"><u>[New] 2024 Approved Top 8 iPhone Video Production Secrets for High-Quality Shoots</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-comparing-dailymovements-and-youtubes-income-models/"><u>[New] Comparing DailyMovement's and Youtube's Income Models</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-unveiling-the-finest-selection-of-economical-free-lut-tools/"><u>[Updated] 2024 Approved Unveiling the Finest Selection of Economical, Free LUT Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-novices-guide-to-animated-videos-with-wmm/"><u>2024 Approved Novice's Guide to Animated Videos with WMM</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-beginners-path-to-reddit-stardom-6-essential-strategies-for-2024/"><u>A Beginner’s Path to Reddit Stardom 6 Essential Strategies for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/breaking-into-solos-creating-popular-podcasts/"><u>Breaking Into Solos Creating Popular Podcasts</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/complete-guide-to-disabling-apples-icloud-lock-on-your-device-with-secure-tools/"><u>Complete Guide to Disabling Apple's iCloud Lock on Your Device with Secure Tools</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/evaluating-the-safety-and-authenticity-of-malwarebytes-is-it-a-secure-choice/"><u>Evaluating the Safety and Authenticity of Malwarebytes: Is It a Secure Choice?</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/how-to-simultaneously-record-all-displays-with-apowersof-screen-tool/"><u>How to Simultaneously Record All Displays with Apowersof Screen Tool</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-samsung-galaxy-f15-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Samsung Galaxy F15 5G to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/mp3-conversion-from-youtube-on-macos-how-to-access-endless-songs-on-iphone-and-macbooks/"><u>MP3 Conversion From YouTube on macOS: How to Access Endless Songs on iPhone & MacBooks</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/simple-methods-for-removing-your-apple-id-from-an-ios-device/"><u>Simple Methods for Removing Your Apple ID From an iOS Device</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/step-by-step-guide-crafting-compelling-facebook-cover-videos-for-maximum-impact/"><u>Step-by-Step Guide: Crafting Compelling Facebook Cover Videos for Maximum Impact</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-eradicating-subwoofer-vibrations-and-humming-sounds/"><u>Step-by-Step Guide: Eradicating Subwoofer Vibrations and Humming Sounds</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/top-10-free-youtube-channels-for-exceptional-art-creation-for-2024/"><u>Top 10 FREE YouTube Channels for Exceptional Art Creation for 2024</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/windows-11-data-protection-tips-and-solutions-safeguard-your-system-with-expert-advice/"><u>Windows 11 Data Protection Tips & Solutions – Safeguard Your System with Expert Advice</u></a></li>
 </ul></div>
 
