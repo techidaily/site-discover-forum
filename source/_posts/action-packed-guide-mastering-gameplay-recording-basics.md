@@ -1,7 +1,7 @@
 ---
 title: "Action-Packed Guide: Mastering Gameplay Recording Basics"
-date: 2024-10-01T19:04:34.591Z
-updated: 2024-10-02T16:38:35.741Z
+date: 2024-10-03T16:31:16.125Z
+updated: 2024-10-08T16:33:00.154Z
 tags:
   - product
 categories:
@@ -45,11 +45,25 @@ Action Tutorials
 
  Share this tutorial: 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Introduction
 
  Welcome to basic introduction to Mirillis Action! Games and Applications recording mode. Games and Applications recording mode is dedicated to capture videos from all DirectX 8/9/10/11/12 and OpenGL games and applications. 
 
  Follow this tutorial to learn basics about games and applications recording. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Games and Applications recording mode
 
@@ -58,15 +72,22 @@ Action Tutorials
 ![Mirillis Action! - gameplay recording mode](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_games_applications_recording_mode.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Run your game, Action! HUD should appear in the top right (default position) corner of your game displaying current game framerate in blue color. This means that game is active, Action! is connected and ready to start gameplay recording. 
 
 ![Mirillis Action! - HUD in game](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_HUD_normal_status_game.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Gameplay recording
 
@@ -86,40 +107,13 @@ Action Tutorials
 
 ![Mirillis Action! - list of gameplay recordings](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_game_recording_thumbnail.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Action! includes internal fast player dedicated for video recordings playback. Select your new gameplay recording and use mouse double click on a thumbnail to start gameplay recording playback. 
 
 ![Mirillis Action! - gameplay recording playback with Action! player](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_game_recording_playback.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To playback raw Action! gameplay recordings you can also use one of **Splash** media player.   
 **Splash** provides additional features like SmartSeek, Motion², DetailBoost, LightBoost, Audio boost, Screen capture and more. Splash is available for download at Mirillis website:   
 [https://mirillis.com/downloads](https://tools.techidaily.com/mirillis/products/) 
-
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Action! HUD on gameplay recordings
 
@@ -142,21 +136,18 @@ Action Tutorials
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-top-8-iphone-video-production-secrets-for-high-quality-shoots/"><u>[New] 2024 Approved Top 8 iPhone Video Production Secrets for High-Quality Shoots</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/new-comparing-dailymovements-and-youtubes-income-models/"><u>[New] Comparing DailyMovement's and Youtube's Income Models</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-unveiling-the-finest-selection-of-economical-free-lut-tools/"><u>[Updated] 2024 Approved Unveiling the Finest Selection of Economical, Free LUT Tools</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-novices-guide-to-animated-videos-with-wmm/"><u>2024 Approved Novice's Guide to Animated Videos with WMM</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/a-beginners-path-to-reddit-stardom-6-essential-strategies-for-2024/"><u>A Beginner’s Path to Reddit Stardom 6 Essential Strategies for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/breaking-into-solos-creating-popular-podcasts/"><u>Breaking Into Solos Creating Popular Podcasts</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/complete-guide-to-disabling-apples-icloud-lock-on-your-device-with-secure-tools/"><u>Complete Guide to Disabling Apple's iCloud Lock on Your Device with Secure Tools</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/evaluating-the-safety-and-authenticity-of-malwarebytes-is-it-a-secure-choice/"><u>Evaluating the Safety and Authenticity of Malwarebytes: Is It a Secure Choice?</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/how-to-simultaneously-record-all-displays-with-apowersof-screen-tool/"><u>How to Simultaneously Record All Displays with Apowersof Screen Tool</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-samsung-galaxy-f15-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Samsung Galaxy F15 5G to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/mp3-conversion-from-youtube-on-macos-how-to-access-endless-songs-on-iphone-and-macbooks/"><u>MP3 Conversion From YouTube on macOS: How to Access Endless Songs on iPhone & MacBooks</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/simple-methods-for-removing-your-apple-id-from-an-ios-device/"><u>Simple Methods for Removing Your Apple ID From an iOS Device</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/step-by-step-guide-crafting-compelling-facebook-cover-videos-for-maximum-impact/"><u>Step-by-Step Guide: Crafting Compelling Facebook Cover Videos for Maximum Impact</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-eradicating-subwoofer-vibrations-and-humming-sounds/"><u>Step-by-Step Guide: Eradicating Subwoofer Vibrations and Humming Sounds</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/top-10-free-youtube-channels-for-exceptional-art-creation-for-2024/"><u>Top 10 FREE YouTube Channels for Exceptional Art Creation for 2024</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/windows-11-data-protection-tips-and-solutions-safeguard-your-system-with-expert-advice/"><u>Windows 11 Data Protection Tips & Solutions – Safeguard Your System with Expert Advice</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-charismatic-captions-instagrams-animated-text-guide/"><u>[New] Charismatic Captions Instagram's Animated Text Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-peeling-away-at-sharex-comparative-views-and-substitutes/"><u>[New] In 2024, Peeling Away at ShareX Comparative Views & Substitutes</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-the-future-at-your-fingertips-testing-the-latest-in-virtual-reality-by-lg/"><u>[Updated] In 2024, The Future at Your Fingertips Testing the Latest in Virtual Reality by LG</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/1-best-techniques-for-converting-the-intercept-podcast-into-various-audio-formats-mp3-wav-aac-and-flac/"><u>1. Best Techniques for Converting The Intercept Podcast Into Various Audio Formats: MP3, WAV, AAC, and FLAC</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-an-in-depth-examination-of-vivavideo-app/"><u>2024 Approved An In-Depth Examination of VivaVideo App</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/boost-brand-awareness-with-selective-marketing-vernacular/"><u>Boost Brand Awareness with Selective Marketing Vernacular</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-evolves-top-features-introduced-in-the-recent-update/"><u>ChatGPT Evolves: Top Features Introduced in the Recent Update</u></a></li>
+<li><a href="https://driver-install.techidaily.com/download-and-setup-intel-me-drivers/"><u>Download & Setup Intel ME Drivers</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-insights-on-the-withings-move-a-perfect-marriage-between-analog-and-digital/"><u>Expert Insights on The Withings Move: A Perfect Marriage Between Analog and Digital</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/is-it-permissible-to-incorporate-a-business-emblem-in-your-e-books-watermark-on-flippublishercom/"><u>Is It Permissible to Incorporate a Business Emblem in Your E-Book's Watermark on flippublisher.com?</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/replicating-media-elements-on-your-website-with-flipbuilder-tools-a-comprehensive-guide/"><u>Replicating Media Elements on Your Website with FlipBuilder Tools - A Comprehensive Guide</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/step-by-step-guide-adding-interactive-flipbook-content-to-your-site-via-flipbuilder/"><u>Step-by-Step Guide: Adding Interactive Flipbook Content to Your Site via FlipBuilder</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/ultimate-guide-to-securing-your-images-how-to-apply-watermarks-with-flipbuilders-simple-tools/"><u>Ultimate Guide to Securing Your Images: How To Apply Watermarks With FlipBuilder's Simple Tools</u></a></li>
 </ul></div>
 
