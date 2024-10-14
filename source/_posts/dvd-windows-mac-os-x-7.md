@@ -1,7 +1,7 @@
 ---
 title: "DVD 리핑을 위해 Windows, Mac OS X를 사용하는 방법: 원형화에 도움이 되는 7가지 기술"
-date: 2024-10-01T16:38:26.231Z
-updated: 2024-10-08T16:14:38.599Z
+date: 2024-10-12T09:45:06.429Z
+updated: 2024-10-14T06:31:29.263Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/5f054d3dfd45c1532d156f3720d0c9546d3d3042842f99d6ad1737f5e8cdf8a9.jpg
@@ -152,6 +152,13 @@ Désactivez les services d'arrière-plan pour accélérer votre ordinateur porta
 
 Afficher plus
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Choix spécial : [Gecata by Movavi](https://www.gecata.com/)
 
 ![](https://cdn.staticont.net/pages/0013/24/59bfacce83c98f6e29023d9167e646142e92751a.webp)
@@ -211,10 +218,10 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 * [Pilotes Intel Graphics](https://www.intel.com/content/www/us/en/support/products/80939/graphics-drivers.html)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Installer DirectX 12
@@ -246,13 +253,6 @@ Si vous ne trouvez pas ces paramètres, cela signifie que la dernière Windows C
 ### Gérez vos heures actives
 
 ![](https://cdn.staticont.net/pages/0012/47/719892cfb3ccc9e05c269dd850ef3c6c37589035.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Oui, Windows 10 peut installer des mises à jour et redémarrer votre ordinateur en plein milieu de votre session de jeu sans même un simple "excusez-moi". Ouch. Cela peut être décevant, c'est le moins que l'on puisse dire, surtout si vous êtes un joueur compétitif et que votre sortie non planifiée peut affecter vos coéquipiers ou votre classement.
 
@@ -312,13 +312,6 @@ Si vous utilisez une carte graphique NVIDIA, il existe des paramètres spécifiq
 5. Mode de gestion de l'énergie : Passez à **Préférer les performances maximales**.
 6. Optimisation Threaded : Passez à **Auto**.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Régler le centre de contrôle AMD/ATI
 
 Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disent qu'elles rivalisent même avec leur concurrent NVIDIA. Modifiez ces paramètres pour optimiser les jeux de Windows 10.
@@ -326,6 +319,13 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 1. Activez l'accentuation des images d'AMD en cliquant sur **Paramètres**, puis sur **Graphiques** pour trouver le paramètre. Vous pouvez l'activer pour des jeux individuels ou globalement.
 2. Augmentez vos performances graphiques en utilisant l'overclocking. Pour ce faire, cliquez sur l'onglet **Performance**, puis sur **Tuning**, sélectionnez **Automatique**, et enfin **GPU Overclocked**.
 3. Si vous utilisez une carte AMD, vous n'avez pas besoin de MSI Afterburner pour contrôler les performances. Il vous suffit d'appuyer sur **Ctrl** \+ **Shift** \+ **O** pour que vos statistiques apparaissent dans le jeu.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Réduire la résolution dans un jeu
 
@@ -416,13 +416,6 @@ C'est l'un des services faciles à désactiver sur Windows 10\. Ces programmes e
 * Définissez la **valeur** sur **0**.
 * Cliquez sur **OK**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 
 
 Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
@@ -439,13 +432,6 @@ Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordin
 
 Pour modifier votre plan d'alimentation, cliquez sur la   **touche Windows** \+ **I**, tapez "alimentation" dans la zone de recherche, choisissez **Paramètres d'alimentation et de veille**, puis **Paramètres d'alimentation supplémentaires**. Si vous ne voyez pas de plan d'alimentation haute performance dans la partie gauche de l'écran, cliquez sur **Créer un plan d'alimentation** et choisissez **Haute performance**.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Empêchez votre ordinateur portable de surchauffer
 
 Les ordinateurs portables sont réputés pour leur surchauffe, car tous les composants sont serrés dans le châssis et l'air circule peu. En cas de surchauffe, le système ralentit et les performances de jeu aussi. Utilisez ces conseils de prévention :
@@ -454,6 +440,13 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 2. Pour la ventilation, essayez de surélever votre ordinateur portable ou utilisez un bureau conçu pour les ordinateurs portables.
 3. Réglez les paramètres de vos ventilateurs pour qu'ils ne soient pas trop sollicités.
 4. Si vous le pouvez, jouez sur votre ordinateur portable dans un environnement frais.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Mettez à niveau votre GPU et votre RAM
 
@@ -491,22 +484,22 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 
 
 Foire aux questions 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Comment optimiser mon ordinateur pour les jeux ?
 
@@ -518,10 +511,10 @@ L'article ci-dessus énumère une série de mesures que vous pouvez prendre pour
 * Vérifiez les paramètres de performance de votre Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Qu'est-ce qui ralentit mon ordinateur ?
@@ -533,6 +526,13 @@ Il y a une longue liste de choses qui pourraient ralentir votre ordinateur. Voic
 3. Les pilotes du GPU ne sont pas à jour
 4. Vous utilisez DirectX 11 et devez effectuer une mise à jour.
 5. Le système fonctionne avec des paramètres de performance inférieurs pour économiser la batterie.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Comment faire fonctionner un ordinateur plus rapidement ?
 
@@ -601,22 +601,20 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-gopro-karma-demystified-a-comprehensive-look/"><u>[New] In 2024, GoPro Karma Demystified A Comprehensive Look</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-quickcopy-custodians-judgment/"><u>[New] QuickCopy Custodians' Judgment</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/1-seamlessly-integrate-a-flipbook-display-with-your-wordpress-site-using-flipbuilder/"><u>1) Seamlessly Integrate a FlipBook Display with Your WordPress Site Using FlipBuilder</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-conquering-live-broadcast-a-comprehensive-guide-for-youtube-and-twitch/"><u>2024 Approved Conquering Live Broadcast A Comprehensive Guide for YouTube & Twitch</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-top-6-downloads-unlocked-with-free-online-and-global-viewing/"><u>2024 Approved Top 6 Downloads – Unlocked with Free Online & Global Viewing</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/automating-post-publishing-actions-integrate-with-flipbooker-after-content-creation/"><u>Automating Post-Publishing Actions: Integrate with FlipBooker After Content Creation</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/enhance-ebook-reading-experience-using-flip-reader-fbr-zip-powered-by-flipbuilder-technology/"><u>Enhance eBook Reading Experience Using Flip Reader (Fbr, Zip) Powered by FlipBuilder Technology</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ras-recipe-for-captivating-youtube-trailers-for-2024/"><u>Filmora’s Recipe for Captivating YouTube Trailers for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-the-error-when-windows-fails-to-acknowledge-new-usb-device-connections/"><u>Fixing the Error When Windows Fails to Acknowledge New USB Device Connections</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/free-online-converter-change-ppm-files-to-png-format-with-movavi/"><u>Free Online Converter: Change PPM Files to PNG Format with Movavi</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/how-to-design-and-share-engaging-flipbook-content-on-mac-discover-flipbuilder-solutions/"><u>How to Design and Share Engaging Flipbook Content on Mac - Discover FlipBuilder Solutions</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/how-to-easily-add-pages-using-flipbuilder-a-complete-tutorial/"><u>How to Easily Add Pages Using FlipBuilder - A Complete Tutorial</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-realme-narzo-60-5g-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Realme Narzo 60 5G to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-go-pro-capturing-ps4-games-in-hd-via-obs-studio-tutorial/"><u>In 2024, Go Pro Capturing PS4 Games in HD via OBS Studio Tutorial</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-inaccessibility-of-altering-chatgpt-framework/"><u>The Inaccessibility of Altering ChatGPT Framework</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/tutoriel-simple-pour-creer-une-exposition-de-flipbooks-en-francais-avec-flipbuildercom/"><u>Tutoriel Simple Pour Créer Une Exposition De Flipbooks en Français Avec FlipBuilder.com</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/online-free-m4v-mp3/"><u>오늘날의 가장 유용한 편리성: 우리는 Online Free M4V으로 MP3 변환을 안내합니다</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-beginners-blueprint-unlocking-ps-magic/"><u>[New] Beginner's Blueprint Unlocking PS Magic</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-perfect-planning-how-to-schedule-your-online-teams-virtual-gatherings-google/"><u>[New] Perfect Planning How to Schedule Your Online Team's Virtual Gatherings (Google)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-perfecting-skype-calls-dial-down-distractions/"><u>[Updated] In 2024, Perfecting Skype Calls Dial Down Distractions</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-effortless-and-economical-the-best-free-youtube-name-generators/"><u>2024 Approved Effortless & Economical The Best Free YouTube Name Generators</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/complete-tutorial-mastering-the-art-of-screen-photography-on-a-samsung-phone-or-tablet/"><u>Complete Tutorial: Mastering the Art of Screen Photography on a Samsung Phone or Tablet</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhanced-nvidia-audio-for-improved-win7-experience/"><u>Enhanced Nvidia Audio for Improved Win7 Experience</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/introducing-the-advanced-android-recording-tool-by-apowersoft-cutting-edge-capabilities-unveiled/"><u>Introducing the Advanced Android Recording Tool by Apowersoft - Cutting-Edge Capabilities Unveiled</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/leading-mobile-applications-for-seamless-hair-erasure-in-photos-compatible-with-android-and-ios/"><u>Leading Mobile Applications for Seamless Hair Erasure in Photos: Compatible with Android and iOS</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/perfect-strategies-for-tune-in-success-at-beat-1-radio/"><u>Perfect Strategies for Tune-In Success at Beat 1 Radio</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/kajis-net-worth-11-year-old-boy-gets-highest-paid-from-youtube/"><u>Ryan Kaji’s Net Worth 11-Year-Old Boy Gets Highest-Paid From YouTube</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/step-by-step-virus-cleanup-process-with-the-help-of-malwarefox-tool/"><u>Step-by-Step Virus Cleanup Process with the Help of MalwareFox Tool</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/the-ultimate-top-5-toolkit-essentials-for-efficient-telecommuting/"><u>The Ultimate Top 5 Toolkit Essentials for Efficient Telecommuting</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/top-5-highly-effective-anti-spyware-tools-and-removers-protect-your-system-now/"><u>Top 5 Highly Effective Anti-Spyware Tools & Removers: Protect Your System Now!</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/top-5-pro-digital-cameras-for-smooth-twitch-broadcasts-for-2024/"><u>Top 5 Pro Digital Cameras for Smooth Twitch Broadcasts for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-transform-your-videos-easy-editing-with-microsoft-video-editor-on-windows/"><u>Updated Transform Your Videos Easy Editing with Microsoft Video Editor on Windows</u></a></li>
 </ul></div>
 

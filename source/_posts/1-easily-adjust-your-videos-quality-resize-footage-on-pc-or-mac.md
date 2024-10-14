@@ -1,7 +1,7 @@
 ---
 title: "1. Easily Adjust Your Video's Quality: Resize Footage on PC or Mac"
-date: 2024-10-06T16:22:01.919Z
-updated: 2024-10-08T16:23:39.636Z
+date: 2024-10-10T19:45:32.746Z
+updated: 2024-10-13T23:05:42.214Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/bbd88c517a72e9ebb4f977c94404d584a269beabb937398b9573ea9432863248.jpg
@@ -156,6 +156,19 @@ Afficher plus
 
 ![](https://cdn.staticont.net/pages/0013/24/59bfacce83c98f6e29023d9167e646142e92751a.webp)
 
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)
 
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)
@@ -210,23 +223,9 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 * [Pilotes NVIDIA](https://www.nvidia.com/Download/index.aspx)
 * [Pilotes Intel Graphics](https://www.intel.com/content/www/us/en/support/products/80939/graphics-drivers.html)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Installer DirectX 12
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 DirectX 12 est un outil indispensable pour quiconque souhaite jouer à des jeux sur Windows 10\. Pour faire simple, DirectX est l'application que le jeu utilise pour communiquer avec votre ordinateur et lui dire quoi faire. DirectX 12 est une grande amélioration par rapport à son prédécesseur, DirectX 11, car il permet aux cartes graphiques de tirer des ressources de plus d'un cœur du processeur d'un PC, ce qui augmente les fréquences d'images, améliore les effets graphiques et réduit la consommation d'énergie. Des tests ont montré une différence de 85 à 300 % dans les performances de jeu entre la version 11 et la version 12.
 
@@ -243,10 +242,10 @@ Utiliser le mode de jeu Windows 10
 ![](https://cdn.staticont.net/default/0012/47/d22e37788bfd390747dc00a19758815599d522df.webp)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Voici un moyen simple et rapide d'optimiser Windows 10 pour les jeux en utilisant un outil intégré au système. Le mode Jeu, apparu dans les versions les plus récentes du système d'exploitation, est conçu pour améliorer l'expérience de jeu en consacrant davantage de ressources système aux jeux. Il empêche également d'autres programmes, tels que Windows Update, d'accaparer les ressources du système pendant que vous jouez.
@@ -275,6 +274,13 @@ Si vous êtes un joueur de nuit ou si vos heures de sommeil varient considérabl
 
 Pour ce faire, retournez à Windows Update, cliquez sur **Advanced options** et assurez-vous que l'interrupteur sous **We'll show a reminder when we're going to restart** est activé.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Réglez les paramètres de vos effets visuels
 
 Les interfaces utilisateur graphiques (IUG) de Windows 10 regorgent d'effets visuels fantaisistes. Néanmoins, ces jolis graphiques d'arrière-plan, dont la plupart sont activés par défaut, peuvent affecter la puissance de traitement disponible de votre PC lorsqu'un jeu est en cours d'exécution au premier plan. Ainsi, une façon d'optimiser Windows 10 pour les performances de jeu est de sacrifier certains, voire tous, ces paramètres.
@@ -292,10 +298,10 @@ Si vous souhaitez conserver un minimum de graphismes pour que votre interface n'
 ![](https://cdn.staticont.net/default/0012/47/297019451ab2d6ffba248c33b083ec10c2390f59.webp)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Le problème ici est le même qu'avec Windows Mises à jour. Steam met automatiquement à jour tous vos jeux, même ceux auxquels vous n'avez pas joué depuis longtemps. Les mises à jour en arrière-plan consomment la mémoire de votre PC et peuvent ralentir les processus de jeu.
@@ -315,6 +321,13 @@ Les notifications au milieu d'un jeu consomment de la puissance CPU et peuvent n
 3. Lorsque la nouvelle fenêtre s'ouvre, mettez le commutateur à bascule situé à côté de l'option **Obtenir des notifications d'applications et d'autres expéditeurs** sur **Désactivé**. Vos notifications sont maintenant désactivées.
 4. Vous pouvez également faire défiler la liste et désactiver les notifications par application.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Régler le panneau de contrôle NVIDIA
 
 Si vous utilisez une carte graphique NVIDIA, il existe des paramètres spécifiques à la carte dans le panneau de configuration. Voici quelques-uns des meilleurs paramètres Windows 10 pour les cartes NVIDIA pour les jeux.
@@ -325,13 +338,6 @@ Si vous utilisez une carte graphique NVIDIA, il existe des paramètres spécifiq
 4. Mode faible latence : Activez-le.
 5. Mode de gestion de l'énergie : Passez à **Préférer les performances maximales**.
 6. Optimisation Threaded : Passez à **Auto**.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Régler le centre de contrôle AMD/ATI
 
@@ -358,13 +364,6 @@ Vous pouvez également modifier le curseur de la vitesse du pointeur pour créer
 Comment améliorer les performances de jeu sur Windows 10 (corrections avancées)
 
 ![](https://cdn.staticont.net/pages/0013/24/72b5f58442a79243cce53c3224e26755b436a620.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ? Utilisez ces correctifs avancés pour une solution à long terme.
 
@@ -449,13 +448,6 @@ Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur 
 
 Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordinateurs portables afin de les maintenir en vie pendant de plus longues durées. Cela affectera considérablement l'expérience de jeu car votre RAM, vos cartes graphiques et votre CPU ne fonctionneront pas à pleine capacité. Pour remédier à ce problème, connectez votre ordinateur portable à son alimentation externe et assurez-vous que vos paramètres de contrôle permettent d'obtenir des performances optimales lorsqu'il est connecté.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Utiliser un plan d'alimentation performant
 
 Pour modifier votre plan d'alimentation, cliquez sur la   **touche Windows** \+ **I**, tapez "alimentation" dans la zone de recherche, choisissez **Paramètres d'alimentation et de veille**, puis **Paramètres d'alimentation supplémentaires**. Si vous ne voyez pas de plan d'alimentation haute performance dans la partie gauche de l'écran, cliquez sur **Créer un plan d'alimentation** et choisissez **Haute performance**.
@@ -468,6 +460,13 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 2. Pour la ventilation, essayez de surélever votre ordinateur portable ou utilisez un bureau conçu pour les ordinateurs portables.
 3. Réglez les paramètres de vos ventilateurs pour qu'ils ne soient pas trop sollicités.
 4. Si vous le pouvez, jouez sur votre ordinateur portable dans un environnement frais.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Mettez à niveau votre GPU et votre RAM
 
@@ -504,6 +503,13 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
 
 Foire aux questions 
@@ -538,16 +544,10 @@ Si vous voulez savoir comment rendre votre ordinateur plus rapide pour jouer, vo
 5. Installez de la RAM supplémentaire
 
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Windows 10 est-il meilleur pour les jeux ?
@@ -607,17 +607,24 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/-filmmakers-guide-seamless-editing-and-uploading-360-degree-footage-for-youtube/"><u>[New] A Filmmaker's Guide Seamless Editing & Uploading 360-Degree Footage for YouTube</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/2022s-top-photo-to-pdf-mobile-applications-for-your-ios-device/"><u>2022'S Top Photo-to-PDF Mobile Applications for Your iOS Device</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/comparative-edge-how-the-chatgpt-desktop-app-outperforms-the-website-experience/"><u>Comparative Edge: How the ChatGPT Desktop App Outperforms the Website Experience</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/complete-tutorial-on-how-to-reflect-iphone-12-and-iphone-13-screen-onto-your-computer-monitor/"><u>Complete Tutorial on How to Reflect iPhone 12 and iPhone 13 Screen Onto Your Computer Monitor</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/discover-the-leading-whatsapp-replacements-for-secure-and-reliable-messaging/"><u>Discover the Leading WhatsApp Replacements for Secure and Reliable Messaging</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Xiaomi 13T | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-secrets-of-effortless-online-video-downloading-on-pinterest/"><u>In 2024, Secrets of Effortless Online Video Downloading on Pinterest</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/master-the-tech-how-to-mirror-windows-on-your-android-smartphone-or-tablet/"><u>Master the Tech: How to Mirror Windows on Your Android Smartphone or Tablet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-and-effortless-upgrade-to-latest-scansnap-ix500-windows-drivers-how-to-guide/"><u>Quick and Effortless Upgrade to Latest ScanSnap iX500 Windows Drivers: How To Guide</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/screen-recorder-showdown-top-choices-explored/"><u>Screen Recorder Showdown Top Choices Explored</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/secure-your-system-with-amds-official-gpio-driver-now-available/"><u>Secure Your System with AMD's Official GPIO Driver - Now Available!</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/ultimate-guide-transferring-your-data-from-the-samsung-galaxy-s21-to-your-computer/"><u>Ultimate Guide: Transferring Your Data From the Samsung Galaxy S21 to Your Computer</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-the-complete-zoomers-guide-achieving-exceptional-video-and-audio-recordings-on-zoom/"><u>[New] 2024 Approved The Complete Zoomer's Guide Achieving Exceptional Video & Audio Recordings on Zoom</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-accelerate-your-media-top-8-android-picks-for-2024/"><u>[New] Accelerate Your Media Top 8 Android Picks for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-become-a-pro-in-calculating-youtube-ratio-measures/"><u>2024 Approved Become a Pro in Calculating YouTube Ratio Measures</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-magixs-masterpiece-an-in-depth-look-at-video-pro-x/"><u>2024 Approved Magix's Masterpiece An In-Depth Look at Video Pro X</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-infinix-hot-40-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Infinix Hot 40 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/enhancing-user-experience-adding-soothing-sounds-to-flipbooks-using-flipbuilder-tools/"><u>Enhancing User Experience: Adding Soothing Sounds to Flipbooks Using FlipBuilder Tools</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/how-to-fix-a-broken-search-option-within-flipbuilder-applications/"><u>How to Fix a Broken Search Option Within FlipBuilder Applications</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-tecno-camon-20-premier-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Tecno Camon 20 Premier 5G Safely | Dr.fone</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/importing-multiple-pages-into-flipbook-a-step-by-step-guide-on-the-platform/"><u>Importing Multiple Pages Into FlipBook: A Step-by-Step Guide on the Platform</u></a></li>
+<li><a href="https://ai-video.techidaily.com/in-2024-5-best-apps-for-voice-translation-from-english-to-bangla/"><u>In 2024, 5 Best Apps for Voice Translation From English to Bangla</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-boosting-your-videos-chance-on-vimeo-staff-list/"><u>In 2024, Boosting Your Video's Chance on Vimeo Staff List</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-any-htc-u23-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any HTC U23 Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/incorporate-tocindex-in-your-ebook-with-flipbuilder-enhance-readability-and-navigation/"><u>Incorporate TOC/Index in Your eBook with FlipBuilder – Enhance Readability and Navigation!</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/interactive-ebook-creation-using-flipbuilder-for-flash-enabled-page-transitions/"><u>Interactive eBook Creation: Using FlipBuilder for Flash-Enabled Page Transitions</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/is-it-permissible-to-incorporate-a-business-emblem-in-your-e-books-watermark-on-flippublishercom/"><u>Is It Permissible to Incorporate a Business Emblem in Your E-Book's Watermark on flippublisher.com?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/new-generation-mac-mini-with-m4-chip-insights-into-release-date-cost-estimates-and-specs-rumors/"><u>New Generation Mac Mini with M4 Chip: Insights Into Release Date, Cost Estimates, and Specs Rumors</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/replicating-media-elements-on-your-website-with-flipbuilder-tools-a-comprehensive-guide/"><u>Replicating Media Elements on Your Website with FlipBuilder Tools - A Comprehensive Guide</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/step-by-step-guide-adding-interactive-flipbook-content-to-your-site-via-flipbuilder/"><u>Step-by-Step Guide: Adding Interactive Flipbook Content to Your Site via FlipBuilder</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/ultimate-guide-to-securing-your-images-how-to-apply-watermarks-with-flipbuilders-simple-tools/"><u>Ultimate Guide to Securing Your Images: How To Apply Watermarks With FlipBuilder's Simple Tools</u></a></li>
 </ul></div>
 

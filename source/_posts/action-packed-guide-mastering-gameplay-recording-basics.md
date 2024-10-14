@@ -1,7 +1,7 @@
 ---
 title: "Action-Packed Guide: Mastering Gameplay Recording Basics"
-date: 2024-10-03T16:31:16.125Z
-updated: 2024-10-08T16:33:00.154Z
+date: 2024-10-10T00:49:35.525Z
+updated: 2024-10-13T23:19:36.930Z
 tags:
   - product
 categories:
@@ -45,25 +45,11 @@ Action Tutorials
 
  Share this tutorial: 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Introduction
 
  Welcome to basic introduction to Mirillis Action! Games and Applications recording mode. Games and Applications recording mode is dedicated to capture videos from all DirectX 8/9/10/11/12 and OpenGL games and applications. 
 
  Follow this tutorial to learn basics about games and applications recording. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Games and Applications recording mode
 
@@ -71,22 +57,21 @@ Action Tutorials
 
 ![Mirillis Action! - gameplay recording mode](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_games_applications_recording_mode.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Run your game, Action! HUD should appear in the top right (default position) corner of your game displaying current game framerate in blue color. This means that game is active, Action! is connected and ready to start gameplay recording. 
 
 ![Mirillis Action! - HUD in game](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_HUD_normal_status_game.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Gameplay recording
@@ -100,6 +85,20 @@ Action Tutorials
  Press **F9** hotkey again to stop gameplay recording. HUD status changes showing that your gameplay recording has finished. 
 
 ![Mirillis Action! - HUD showing finished gameplay recording](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_HUD_normal_status_game.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Gameplay recordings playback
 
@@ -121,6 +120,13 @@ Action Tutorials
 
 ![Mirillis Action! - Settings - Do not record HUD in games and applications](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_HUD_settings_do_not_record_in_games.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -136,18 +142,22 @@ Action Tutorials
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-charismatic-captions-instagrams-animated-text-guide/"><u>[New] Charismatic Captions Instagram's Animated Text Guide</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-peeling-away-at-sharex-comparative-views-and-substitutes/"><u>[New] In 2024, Peeling Away at ShareX Comparative Views & Substitutes</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-the-future-at-your-fingertips-testing-the-latest-in-virtual-reality-by-lg/"><u>[Updated] In 2024, The Future at Your Fingertips Testing the Latest in Virtual Reality by LG</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/1-best-techniques-for-converting-the-intercept-podcast-into-various-audio-formats-mp3-wav-aac-and-flac/"><u>1. Best Techniques for Converting The Intercept Podcast Into Various Audio Formats: MP3, WAV, AAC, and FLAC</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-an-in-depth-examination-of-vivavideo-app/"><u>2024 Approved An In-Depth Examination of VivaVideo App</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/boost-brand-awareness-with-selective-marketing-vernacular/"><u>Boost Brand Awareness with Selective Marketing Vernacular</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-evolves-top-features-introduced-in-the-recent-update/"><u>ChatGPT Evolves: Top Features Introduced in the Recent Update</u></a></li>
-<li><a href="https://driver-install.techidaily.com/download-and-setup-intel-me-drivers/"><u>Download & Setup Intel ME Drivers</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-insights-on-the-withings-move-a-perfect-marriage-between-analog-and-digital/"><u>Expert Insights on The Withings Move: A Perfect Marriage Between Analog and Digital</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/is-it-permissible-to-incorporate-a-business-emblem-in-your-e-books-watermark-on-flippublishercom/"><u>Is It Permissible to Incorporate a Business Emblem in Your E-Book's Watermark on flippublisher.com?</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/replicating-media-elements-on-your-website-with-flipbuilder-tools-a-comprehensive-guide/"><u>Replicating Media Elements on Your Website with FlipBuilder Tools - A Comprehensive Guide</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/step-by-step-guide-adding-interactive-flipbook-content-to-your-site-via-flipbuilder/"><u>Step-by-Step Guide: Adding Interactive Flipbook Content to Your Site via FlipBuilder</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/ultimate-guide-to-securing-your-images-how-to-apply-watermarks-with-flipbuilders-simple-tools/"><u>Ultimate Guide to Securing Your Images: How To Apply Watermarks With FlipBuilder's Simple Tools</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-free-fb-hd-videos-step-by-step/"><u>[New] Free FB HD Videos Step-by-Step</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-decoding-effective-tiktok-advertising-methods/"><u>[Updated] In 2024, Decoding Effective TikTok Advertising Methods</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-master-the-art-of-persuasion-top-30-video-strategies/"><u>[Updated] Master the Art of Persuasion Top 30 Video Strategies</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/1-easily-adjust-your-videos-quality-resize-footage-on-pc-or-mac/"><u>1. Easily Adjust Your Video's Quality: Resize Footage on PC or Mac</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/1726224422010-movavi/"><u>最新Movavi 無限制範圍影片轉換器 - 超高速自由版</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/guide-mastering-the-game-of-vainglory-across-your-computer-screen/"><u>Guide: Mastering the Game of Vainglory Across Your Computer Screen</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-go-joystick-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Vivo V29? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-mastering-quantum-hdr-techniques-for-professionals/"><u>In 2024, Mastering Quantum HDR Techniques for Professionals</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/lumafusion-for-macbook-how-to-install-and-best-alternatives/"><u>Lumafusion for MacBook How to Install and Best Alternatives</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/1726222838740-movavi-avim4v/"><u>Movavi: ストレージを気にせず、無料でAVIとM4Vビデオの変換 - 最強ワンスタック</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-honor-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from Honor</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/steps-to-download-a-complete-set-of-videos-from-youtube-as-mp3-audio-tracks/"><u>Steps to Download a Complete Set of Videos From YouTube as MP3 Audio Tracks</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/top-20-gratist-video-konverterar-apps-for-windows-11-8-and-7/"><u>Top 20 Gratist Video Konverterar Apps För Windows 11, 8 & 7</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/ultimate-distance-education-toolkit-top-resources-and-tech-for-remote-learners/"><u>Ultimate Distance Education Toolkit: Top Resources & Tech for Remote Learners</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/unlocking-the-secrets-of-mp4-files-a-comprehensive-guide/"><u>Unlocking the Secrets of MP4 Files - A Comprehensive Guide</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-transform-mp4-videos-into-mp3-audio-files-top-converters/"><u>Updated 2024 Approved Transform MP4 Videos Into MP3 Audio Files Top Converters</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-march-madness-deal-wondershare-filmora-coupon-code-dont-miss-out/"><u>Updated March Madness Deal Wondershare Filmora Coupon Code - Dont Miss Out</u></a></li>
 </ul></div>
 
