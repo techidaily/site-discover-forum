@@ -1,7 +1,7 @@
 ---
 title: How to Send Numerous Images via AirDrop Between iPhones and PCs - Is It Possible?
-date: 2024-12-02T18:45:15.564Z
-updated: 2024-12-06T03:27:01.505Z
+date: 2024-12-10T20:38:53.784Z
+updated: 2024-12-18T08:02:06.091Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/c2e520b7fa2ea279c78f437762c6d9b1bb9afdd3b83c993e13cda25988d89dcf.png
@@ -25,7 +25,7 @@ Wie kann man den Papierkorb vom Desktop entfernen? Eine effiziente Methode finde
 ![Holiday](https://www.ubackup.com/assets/images/author/Holiday.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Von[Holiday](https://tools.techidaily.com/ubackup/products/)/ Aktualisiert am 14.09.2024
@@ -43,7 +43,7 @@ Teilen Sie dies: [![facebook](https://www.ubackup.com/resource/images/ab-theme/u
 7. [Häufig gestellte Fragen](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Ist es sicher, den Papierkorb zu löschen?
@@ -82,6 +82,10 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 
 [![Papierkorb](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/check-recycle-bin-click-ok.png "Papierkorb")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Teil 2\. Wie kann man den Papierkorb vom Desktop entfernen?
 
 Wenn Sie den Papierkorb mittels erhöhter Eingabeaufforderung zurücksetzen möchten, folgen Sie diesen klaren Schritten:
@@ -90,21 +94,9 @@ Wenn Sie den Papierkorb mittels erhöhter Eingabeaufforderung zurücksetzen möc
 
 [![Als Administrator ausführen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/run-as-administrator.png "Als Administrator ausführen")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 2**. Geben Sie „**rd /s /q C:\\Papierkorb**“ in das Eingabeaufforderungsfenster ein und drücken Sie „**Enter**“, um den Vorgang zu starten. Wenn erforderlich, ersetzen Sie das Laufwerk C durch Ihren gewünschten Laufwerksbuchstaben.
 
 [![cmd Papierkorb zurücksetzen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/command-prompt/cmd-reset-recycle-bin.png "cmd Papierkorb zurücksetzen")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Teil 3\. Wie kann man gelöschte Dateien aus dem Papierkorb nach dem Leeren wiederherstellen?
 
@@ -126,13 +118,25 @@ Sicherer Download
 
 [![Scan starten](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/select-c-to-scan.png "Scan starten")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Schritt 2**. Suchen Sie nach Ihren gewünschten Dateien oder warten Sie, um Ihre gelöschten und anderen fehlenden Dateien nach der Schnell- und Tiefenscan anzuzeigen.
 
 [![Laufwerk scannen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/scanning-drive.png "Laufwerk scannen")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Schritt 3**. Gehen Sie zum Papierkorb, um die gewünschten Dateien zu lokalisieren. Klicken Sie dann auf „**x Dateien wiederherstellen**“, um die ausgewählten Dateien wiederherzustellen. Speichern Sie diese wiederhergestellten Dateien bitte an einem neuen Ort.
 
 [![x Dateien wiederherstellen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png "x Dateien wiederherstellen")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Bonus-Tipps: Wie verhindert man Datenverlust auf Computern?**
 
@@ -161,6 +165,10 @@ Sicherer Download
 
 [![aufgabename eingeben](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/task-name.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Schritt** **3**. Klicken Sie auf „**\+ Datei**“ oder „**\+ Ordner**“, damit Sie die Dateien/Ordner auswählen können, die Sie sichern möchten. (Sie können mehrere Ordner und Dateien als Quelle hinzufügen; Sie können auch Ordner und Dateien direkt als Quelle auf den Backupper ziehen).
 
 [![Ordner hinzufügen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/add-folder.png)
@@ -176,6 +184,10 @@ Wenn Ihr Papierkorb leer angezeigt wird, dies aber nicht der Fall ist, können S
 Wenn Sie den Papierkorb vom Desktop aus leeren möchten, können Sie die im zweiten Teil empfohlene erweiterte Eingabeaufforderung verwenden.
 
 Für [dauerhaft gelöschte Dateien können Sie Ihre Dateien](https://tools.techidaily.com/ubackup/products/) aus den von AOMEI Backupper erstellten Sicherungen wiederherstellen oder Datenrettungstools verwenden, um sie wiederherzustellen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Häufig gestellte Fragen
 
@@ -199,17 +211,9 @@ Waren die angebotenen Informationen nützlich? Ihre Stimme ist wichtig für uns!
 
 ![Holiday](https://www.ubackup.com/assets/images/author/Holiday.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Holiday](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Holiday ist seit dem 1\. Juni 2020 bei AOMEI und beschäftigt sich mit Sichern & Wiederherstellen, Festplatten- und Partitionsverwaltung usw. für AOMEI. Ob Arbeit, Studien oder Leben, sie versucht gerne, neue Dinge zu lernen und denkt, dass Überraschungen auf sie warten, egal wann und wo.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Folgende Artikel könnten Sie auch interessieren
 
@@ -235,10 +239,6 @@ Waren die angebotenen Informationen nützlich? Ihre Stimme ist wichtig für uns!
 
 [Ja](https://tools.techidaily.com/ubackup/products/)[Nein](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## MyRecover Jetzt Kostenlos Erhalten
 
 Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in Windows.
@@ -250,7 +250,7 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -268,22 +268,20 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-stream-and-save-a-guide-to-xbox-broadcasting/"><u>[Updated] 2024 Approved Stream and Save A Guide to Xbox Broadcasting</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/2019-ford-focus-st-high-quality-wallpaper-downloads-digital-desktop-decor-with-yl/"><u>2019 Ford Focus ST High-Quality Wallpaper Downloads - Digital Desktop Decor with YL</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-pushing-the-boundaries-of-screen-recording-with-recmeister/"><u>2024 Approved Pushing the Boundaries of Screen Recording with Recmeister</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-update-thunderbolt-3-drivers-for-latest-windows-11-easy-guide/"><u>Download & Update Thunderbolt 3 Drivers for Latest Windows 11: Easy Guide</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/filmora-coupon-guide-4-easy-ways-to-redeem-exclusive-offers/"><u>Filmora Coupon Guide 4 Easy Ways to Redeem Exclusive Offers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-hp-deskjet-ink-advantage-3050a-drivers-for-windows-systems-download-and-updates/"><u>Free HP DeskJet Ink Advantage 3050A Drivers for Windows Systems: Download & Updates</u></a></li>
-<li><a href="https://fox-access.techidaily.com/harnessing-iphones-potential-for-detailed-photography-for-2024/"><u>Harnessing iPhone's Potential for Detailed Photography for 2024</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/identifying-a-faulty-motherboard-expert-tips-and-signs-yl-computing-blog/"><u>Identifying a Faulty Motherboard: Expert Tips & Signs - YL Computing Blog</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-elite-camera-selection-our-top-15-picks/"><u>In 2024, Elite Camera Selection Our Top 15 Picks</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-step-by-step-guide-to-excelling-at-final-cut-pro/"><u>In 2024, Step-by-Step Guide to Excelling at Final Cut Pro</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-unravel-the-mystery-of-the-overly-green-hue-in-mac-recordings/"><u>In 2024, Unravel the Mystery of the Overly Green Hue in Mac Recordings</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/premium-vehicle-graphics-custom-geely-car-images-and-wallpapers-from-yl-software-solutions/"><u>Premium Vehicle Graphics: Custom Geely Car Images and Wallpapers From YL Software Solutions</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/system-fan-malfunctions-solved-expert-advice-by-yl-software-technicians/"><u>System Fan Malfunctions Solved: Expert Advice by YL Software Technicians</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/troubleshooting-non-functional-gpus-expert-advice-by-yl-software-solutions/"><u>Troubleshooting Non-Functional GPUs: Expert Advice by YL Software Solutions</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/ultra-hd-backgrounds-for-your-computer-stunning-aston-martin-vanquish-imagery-by-yl-software/"><u>Ultra-HD Backgrounds for Your Computer: Stunning Aston Martin Vanquish Imagery by YL Software</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/understanding-causes-of-diminished-print-quality-tips-by-yl-computing-and-yl-software-professionals/"><u>Understanding Causes of Diminished Print Quality: Tips by YL Computing and YL Software Professionals</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/unveiling-the-safety-of-cryptocurrency-investments-with-yl-software-analysis/"><u>Unveiling the Safety of Cryptocurrency Investments with YL Software Analysis</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-smoothshot-stabilizing-technology-on-the-move/"><u>[New] In 2024, SmoothShot Stabilizing Technology on the Move</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-maximizing-video-impact-fairly-and-effectively/"><u>[Updated] Maximizing Video Impact Fairly and Effectively</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/can-you-rely-on-windows-defenders-instant-guard-feature-explore-insights-from-yl-computing/"><u>Can You Rely on Windows Defender's Instant Guard Feature? Explore Insights From YL Computing</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/consequences-of-the-treaty-of-nanking-a-comprehensive-analysis-by-yl-computing-and-yl-software/"><u>Consequences of the Treaty of Nanking: A Comprehensive Analysis - By YL Computing and YL Software</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/high-resolution-justin-bieber-image-collections-backgrounds-wallpapers-and-more-yl-graphics-suite/"><u>High-Resolution Justin Bieber Image Collections: Backgrounds, Wallpapers & More - YL Graphics Suite</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/how-to-fix-scanner-disconnection-errors-on-a-windows-computer-expert-advice-by-yl-software/"><u>How To Fix Scanner Disconnection Errors on a Windows Computer - Expert Advice by YL Software</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/how-to-speed-up-your-print-jobs-effective-strategies-by-yl-software-experts/"><u>How to Speed Up Your Print Jobs: Effective Strategies by YL Software Experts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-turn-on-system-protection-in-windows-10/"><u>How to Turn On System Protection in Windows 10</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-harnessing-artificial-intelligence-for-insights-and-predictions/"><u>In 2024, Harnessing Artificial Intelligence for Insights and Predictions</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-realme-c53-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Realme C53 to New Phone | Dr.fone</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/locating-necessary-drivers-for-your-latest-tech-gadget-with-expert-advice-from-yl-software/"><u>Locating Necessary Drivers for Your Latest Tech Gadget with Expert Advice From YL Software</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/mastering-crypto-transactions-a-comprehensive-guide-to-buying-selling-and-trading-coins-yl-computing-solutions/"><u>Mastering Crypto Transactions: A Comprehensive Guide to Buying, Selling, and Trading Coins - YL Computing Solutions</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/mastering-your-brands-voice-in-the-online-world-confident-marketing-via-massmail-solutions/"><u>Mastering Your Brand's Voice in the Online World: Confident Marketing via MassMail Solutions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-advanced-guides-and-reviews/"><u>Tom's Tech Insights: Advanced Guides & Reviews</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnet-reveals-the-future-of-in-car-technology-with-new-features-for-upgraded-apple-carplay-announced-at-wwdc-2024/"><u>ZDNet Reveals the Future of In-Car Technology with New Features for Upgraded Apple CarPlay Announced at WWDC 2024</u></a></li>
 </ul></div>
 
