@@ -1,7 +1,7 @@
 ---
 title: How to Retrieve Deleted Unsaved Worksheets From Excel 2016 Using the Power of IFind Data Recovery
-date: 2025-01-03T16:00:01.501Z
-updated: 2025-01-05T16:00:01.648Z
+date: 2025-01-07T08:03:30.330Z
+updated: 2025-01-12T03:37:37.656Z
 tags:
   - product
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/c10f5fc3a26c6243fb8c4940c266b426236bd87cd
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How To Recover Unsaved Excel File
 
 * ![how to recover unsaved excel files](https://www.ifind-recovery.com/wp-content/uploads/2019/03/how-to-recover-unsaved-excel-file.jpg)
@@ -27,10 +31,6 @@ Unlike the office word, Excel is all about tables and calculations. You may face
 ## how to recover unsaved excel file 2016/2013/2007?
 
 As a part of Microsoft office, the recovery of excel is very similar with office word. In case you read this before our office word tips, here is the detailed step by step methods to help you to recover excel file not saved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 1: Recover Unsaved excel Documents From Office Autosave
 
@@ -59,7 +59,7 @@ Excel Autorecover is a building-in function of Microsoft office(2003-2016) for s
 ![Files of type](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2019/02/Files-of-type.jpg?resize=640%2C202&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * [Excel 2007](https://www.ifind-recovery.com/how-to/recover-excel-file/#tab-17147dd51bf99356398)
@@ -74,10 +74,6 @@ Normally, Excel will display a notice of Document Recovery task pane after start
 
 ![excel autorecover panel](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2019/03/excel-autorecover-panel.jpg?resize=800%2C300&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If not, you can still go to “Manage Workbook” to open the unsaved files.
 
 ![recover unsaved workbooks](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2019/03/recover-unsaved-workbooks.jpg?resize=800%2C299&ssl=1)
@@ -90,22 +86,22 @@ First, you need to select the “Always create backup” option in File – Save
 
 ![excel-backup-options](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2019/03/excel-backup-options.jpg?resize=800%2C267&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2019/03/excel-backup-options2.jpg?resize=800%2C194&ssl=1)
 
 Then, the Excel will store a \*.xlk backup file for you. So you have a chance to recover the unsaved files by using these backup files.
 
 ![](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2019/03/excel-backup-xlk.jpg?resize=800%2C131&ssl=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 4: Recover Unsaved excel Documents From windows previous versions
 
 **Related Tip: [Restore Deleted Files With Previous Versions Tabs In Windows](https://www.ifind-recovery.com/how-to/recover-deleted-files-windows-10-7-8/#part2)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 5: Recover Unsaved excel Documents From iFinD data recovery
@@ -114,13 +110,13 @@ If you get no luck with the tips above, or all or part of your computer data was
 
 ![](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2024/03/R-C.png?resize=100%2C100&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [andy woo](https://www.ifind-recovery.com/author/andywoo/)
 
 Andy is an editor of the iFinD Team. She worked in this big family since her graduation. Her articles mainly focus on data backup and recovery, disk cloning, and file syncing, committed to resolving the data loss issues users may encounter on their PCs. Besides, more related computer articles are shared here.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Show Us some Love:
 
@@ -135,7 +131,7 @@ Andy is an editor of the iFinD Team. She worked in this big family since her gra
 [![](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2018/10/How-To-Recover-Deleted-Photos-Pictures-From-SD-Card-1.jpg?fit=640%2C426&ssl=1&resize=350%2C200)](https://www.ifind-recovery.com/how-to/how-to-recover-deleted-photos-from-sd-card/ "How to Recover Deleted Photos from a Formatted/Corrupted SD Card for Free?")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### [How to Recover Deleted Photos from a Formatted/Corrupted SD Card for Free?](https://www.ifind-recovery.com/how-to/how-to-recover-deleted-photos-from-sd-card/ "How to Recover Deleted Photos from a Formatted/Corrupted SD Card for Free?")
@@ -145,6 +141,10 @@ October 31, 2018
 In "Knowledge Base"
 
 [![](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2018/12/Windows_10.png?fit=1025%2C576&ssl=1&resize=350%2C200)](https://www.ifind-recovery.com/how-to/recover-deleted-files-windows-10-7-8/ "How To Recover Permanently Deleted Files in Windows PC &#038; Prevent Data Loss Forever | 2024?")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### [How To Recover Permanently Deleted Files in Windows PC & Prevent Data Loss Forever | 2024?](https://www.ifind-recovery.com/how-to/recover-deleted-files-windows-10-7-8/ "How To Recover Permanently Deleted Files in Windows PC &#038; Prevent Data Loss Forever | 2024?")
 
@@ -177,18 +177,20 @@ By [andy woo](https://www.ifind-recovery.com/author/andywoo/ "Posts by andy woo"
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-ethical-download-strategies-for-youtube-to-mp4-files/"><u>[New] Ethical Download Strategies for YouTube to MP4 Files</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-expert-advice-how-to-leverage-snapchat-effectively/"><u>[Updated] In 2024, Expert Advice How to Leverage Snapchat Effectively</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-the-best-motivational-films-to-fuel-your-ambition/"><u>2024 Approved The Best Motivational Films to Fuel Your Ambition</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/comparatif-de-synchronisation-bidirectionnelle-pour-deux-systemes-nas-synology/"><u>Comparatif De Synchronisation Bidirectionnelle Pour Deux Systèmes NAS Synology</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/guia-para-recuperar-informacion-eliminada-tras-instalar-una-reinstalacion-limpia-en-windows-1011/"><u>Guía Para Recuperar Información Eliminada Tras Instalar Una Reinstalación Limpia en Windows 10/11</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/media-sources-cle-usb-gerer-les-parametres-dans-windows-11-10-8-et-7/"><u>Media Sources Clé USB : Gérer Les Paramètres Dans Windows 11, 10, 8 Et 7</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/navigating-ico-investments-safely-insights-and-risk-assessment-strategies-from-yl-software-specialists/"><u>Navigating ICO Investments Safely: Insights and Risk Assessment Strategies From YL Software Specialists</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/seamlessly-share-data-between-your-iphone-and-windows-laptop-with-advanced-airdrop-techniques/"><u>Seamlessly Share Data Between Your iPhone and Windows Laptop with Advanced AirDrop Techniques</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-art-of-nba-streaming-discover-the-best-15-techniques-for-2024/"><u>The Art of NBA Streaming - Discover the Best 15 Techniques for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-ai-unveiling-the-distinctions-between-chatgpt-and-gpt-3/"><u>Understanding AI: Unveiling the Distinctions Between ChatGPT and GPT-3</u></a></li>
-<li><a href="https://games-able.techidaily.com/unplug-and-play-the-allure-of-netflixs-gaming/"><u>Unplug and Play: The Allure of Netflix’s Gaming</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-htc-u23-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on HTC U23 Pro | Dr.fone</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/iuocouodlplusodquocseodvooctplusodpplusodsplusavjuobqplusocuplusocreodpeodquodhuocoplusockuw8tpluswmljog44oh44o844or44k144o844oq44gn44gu44or44k544ov44o844oj39/"><u>アプリケーション毎にセキュリティを強化: メールサーバでのパスワード利用方法</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-action-in-pixelation-top-3-strategies-for-sports-gameplay-recordings/"><u>[New] In 2024, Action in Pixelation Top 3 Strategies for Sports Gameplay Recordings</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ransform-your-youtube-presence-mastering-featured-channel-spotlight-techniques-for-2024/"><u>[New] Transform Your YouTube Presence Mastering Featured Channel Spotlight Techniques for 2024</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/windows-pc-vs/"><u>【新着】今年のハイレベルクローニングツールベストセレクション - Windows PC向け！価格比較: 無料 vs 有料版</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/1728489631590-windows-11/"><u>如何在 Windows 11上進行系統備份和還原: 完整的修改手冊</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/aprender-a-contar-el-tiempo-y-las-horas-en-espanol/"><u>Aprender a Contar El Tiempo Y Las Horas en Español</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/come-eseguire-il-backup-incrociato-o-differenziale-in-windows-1011-guida-passo-passo/"><u>Come Eseguire Il Backup Incrociato O Differenziale in Windows 10/11: Guida Passo-Passo</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/hoofdijsige-schakels-voor-samsung-data-migratie-naar-windows-11-eenvoudig-download-and-instructies/"><u>Hoofdijsige Schakels Voor Samsung-Data Migratie Naar Windows 11: Eénvoudig Download & Instructies</u></a></li>
+<li><a href="https://fox-that.techidaily.com/immediate-fixes-for-airdrop-malfunctions-learn-with-our-top-16-tips/"><u>Immediate Fixes for AirDrop Malfunctions - Learn With Our Top 16 Tips</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-infinix-note-30-vip-racing-edition-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Infinix Note 30 VIP Racing Edition</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/is-it-possible-to-restore-windows-11-following-a-factory-reset/"><u>Is It Possible to Restore Windows 11 Following a Factory Reset?</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/methods-for-retrieving-lost-notes-from-itunes-backups-or-without-a-backup/"><u>Methods for Retrieving Lost Notes From iTunes Backups or Without a Backup</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-unlock-the-power-of-animated-photos-top-tools/"><u>New 2024 Approved Unlock the Power of Animated Photos Top Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/transition-to-new-background-in-winterminal/"><u>Transition to New Background in WinTerminal</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138571970-9781475923728-ufos/"><u>Ufos | Free Book</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/algraha-alshrya-bynma-kyfya-astnsakh-ssd-il-hdd-aal-windows-11-baman/"><u>الجراحة السحرية بينما - كيفية استنساخ SSD إلى HDD على Windows 11 بأمان</u></a></li>
 </ul></div>
 
